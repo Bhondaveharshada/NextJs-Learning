@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+## Nextjs Concept 
+# 1. Catch-all Segment 
+
+The concept of catch-all segments in routing allows for unique routes to be created for multiple files(routing file).
+
+The catchall segments route allows multiple URL variations to be mapped to a single file,
+
+For EXample = If the feature ID is the first route parameter, a slug of zero is used; 
